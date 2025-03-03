@@ -3,3 +3,5 @@ Results of Data Analysis:
 Correlation between Weight and Frailty: 0.5352
 Correlation between Height and Frailty: 0.1932
 Correlation between Age and Frailty: -0.0837
+
+As we can see that weight and frailty has 0.54 is  highest correlation  between them as weight increase the frailty is increases , and there is no relationship between age and frailty because their correlation is -0.08.
